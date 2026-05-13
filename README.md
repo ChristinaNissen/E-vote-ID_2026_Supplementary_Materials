@@ -8,6 +8,7 @@ It includes:
 - Consent form
 - Survey
 - Codebook
+- Demographics
 
 Please download the consent form and survey to see the full content. 
 
